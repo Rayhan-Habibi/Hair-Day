@@ -1,0 +1,37 @@
+<img class="homepage-img" src="img/Homepage.jpg" alt="hairday-homepage-img">
+<div class="container col-lg-1">
+<h1>Hair Day</h1>
+<h4>Better solution for your hair</h4>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, facere! Quas et doloremque ducimus hic incidunt expedita ipsam eveniet, officia rem? Inventore explicabo autem corrupti maxime, nobis possimus earum? Consequatur?</p>
+</div>
+
+.homepage-img{
+    margin-top: 55px;
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+<div class="card" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Special title treatment</h5>
+            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Special title treatment</h5>
+            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Special title treatment</h5>
+            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div>
